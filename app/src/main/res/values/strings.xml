@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">I-secure</string>
+    <string name="textview">TextView</string>
+    <string name="Switch">switch</string>
+    <string name="edit_message">Enter your IP</string>
+    <string name="connection_status">not connected.</string>
+</resources>
